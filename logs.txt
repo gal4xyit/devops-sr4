@@ -1,0 +1,10 @@
+Nov 03 15:05:23 Alexander systemd[1]: systemd-timedated.service: Deactivated successfully.
+Nov 03 15:05:24 Alexander wsl-pro-service[172]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/User/.ubuntupro/.address": open /mnt/c/Users/User/.ubuntupro/.address: no such file or directory
+Nov 03 15:05:39 Alexander unknown: WSL (193) ERROR: CheckConnection: getaddrinfo() failed: -5
+Nov 03 15:05:39 Alexander kernel: hv_balloon: Max. dynamic memory size: 15930 MB
+Nov 03 15:05:56 Alexander wsl-pro-service[172]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/User/.ubuntupro/.address": open /mnt/c/Users/User/.ubuntupro/.address: no such file or directory
+Nov 03 15:06:56 Alexander wsl-pro-service[172]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/User/.ubuntupro/.address": open /mnt/c/Users/User/.ubuntupro/.address: no such file or directory
+Nov 03 15:07:56 Alexander wsl-pro-service[172]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/User/.ubuntupro/.address": open /mnt/c/Users/User/.ubuntupro/.address: no such file or directory
+Nov 03 15:08:56 Alexander wsl-pro-service[172]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/User/.ubuntupro/.address": open /mnt/c/Users/User/.ubuntupro/.address: no such file or directory
+Nov 03 15:09:04 Alexander sudo[557]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 03 15:09:04 Alexander sudo[557]: alexander : TTY=/dev/pts/0 ; PWD=/home/alexander/devops-sr4 ; USER=root ; COMMAND=/usr/bin/journalctl -n 10 --no-pager
