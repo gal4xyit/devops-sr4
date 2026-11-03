@@ -1,0 +1,70 @@
+Preparing 5 workers...
+OK
+[W:0] Starting
+[W:1] Starting
+[W:2] Starting
+[W:3] Starting
+[W:4] Starting
+[W:0] Setting up session
+[W:1] Setting up session
+[W:2] Setting up session
+[W:3] Setting up session
+[W:4] Setting up session
+[W:0] Running scenarios
+[W:1] Running scenarios
+[W:2] Running scenarios
+[W:3] Running scenarios
+[W:4] Running scenarios
+[W:0] Ran 10 scenarios
+[W:1] Ran 10 scenarios
+[W:2] Ran 10 scenarios
+[W:3] Ran 10 scenarios
+[W:4] Ran 10 scenarios
+[W:0] Ran 20 scenarios
+[W:1] Ran 20 scenarios
+[W:2] Ran 20 scenarios
+[W:3] Ran 20 scenarios
+[W:4] Ran 20 scenarios
+[W:0] Ran 30 scenarios
+[W:1] Ran 30 scenarios
+[W:2] Ran 30 scenarios
+[W:3] Ran 30 scenarios
+[W:4] Ran 30 scenarios
+[W:0] Ran 40 scenarios
+[W:1] Ran 40 scenarios
+[W:2] Ran 40 scenarios
+[W:3] Ran 40 scenarios
+[W:4] Ran 40 scenarios
+[W:0] Ran 50 scenarios
+[W:1] Ran 50 scenarios
+[W:2] Ran 50 scenarios
+[W:3] Ran 50 scenarios
+[W:4] Ran 50 scenarios
+[W:0] Ran 60 scenarios
+[W:1] Ran 60 scenarios
+[W:2] Ran 60 scenarios
+[W:3] Ran 60 scenarios
+[W:4] Ran 60 scenarios
+[W:0] Ran 70 scenarios
+[W:1] Ran 70 scenarios
+[W:2] Ran 70 scenarios
+[W:3] Ran 70 scenarios
+[W:4] Ran 70 scenarios
+[W:0] Ran 80 scenarios
+[W:1] Ran 80 scenarios
+[W:2] Ran 80 scenarios
+[W:3] Ran 80 scenarios
+[W:4] Ran 80 scenarios
+[W:0] Ran 90 scenarios
+[W:1] Ran 90 scenarios
+[W:2] Ran 90 scenarios
+[W:3] Ran 90 scenarios
+[W:4] Ran 90 scenarios
+[W:0] Ran 100 scenarios
+[W:1] Ran 100 scenarios
+[W:2] Ran 100 scenarios
+[W:3] Ran 100 scenarios
+[W:4] Ran 100 scenarios
+**** Molotov v2.6. Happy breaking! ****
+SUCCESSES: 545 | FAILURES: 0
+*** Bye ***

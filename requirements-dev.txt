@@ -2,3 +2,5 @@ build
 devpi-server
 devpi-client
 twine
+molotov
+aiohttp
