@@ -1,0 +1,15 @@
+[Unit]
+Description=SR4 periodic test logger
+
+[Service]
+Type=simple
+User=alexander
+WorkingDirectory=/home/alexander/devops-sr4
+ExecStart=/usr/bin/bash scripts/mytest.sh
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
